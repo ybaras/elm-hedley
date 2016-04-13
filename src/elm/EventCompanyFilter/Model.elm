@@ -8,5 +8,5 @@ type alias Model =
 initialModel : Model
 initialModel =
   { state = Nothing,
-    changes = 0
+    changes = -1
   }
